@@ -1,0 +1,6 @@
+{
+  "name": "Test-ghpages",
+  "tagline": "Testing Github Pages ",
+  "body": "This is my website \r\n\r\n## Heading 2\r\n\r\n### Heading 3\r\n\r\n1. Hello\r\n2. How are you ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
